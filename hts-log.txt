@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 08 Aug 2021 09:18:50 at https://yourverify.net/5ca3ffa +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://yourverify.net/5ca3ffa -O1 "C:\My Web Sites\had" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:18:59	Error: 	"Not Found" (404) at link https://yourverify.net/style.css (from https://yourverify.net/5ca3ffa)
+09:18:59	Error: 	"Not Found" (404) at link https://yourverify.net/main.js (from https://yourverify.net/5ca3ffa)
+09:18:59	Error: 	"Not Found" (404) at link https://yourverify.net/customTemplateGlobal.set (from https://yourverify.net/5ca3ffa)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 16 links scanned, 12 files written (571781 bytes overall) [532861 bytes received at 59206 bytes/sec], 67961 bytes transferred using HTTP compression in 1 files, ratio 30%, 1.4 requests per connection
+(3 errors, 0 warnings, 0 messages)
